@@ -1,0 +1,18 @@
+.Menu {
+    font-size: 20px;
+	display: flex;
+    flex-direction: column;
+    padding: 30px;
+    height: 100%;
+}
+
+.Menu .active {
+    color: darkcyan;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.Menu > a:hover {
+    background-color: yellow;
+}

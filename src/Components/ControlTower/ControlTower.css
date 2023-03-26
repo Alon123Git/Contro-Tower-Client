@@ -1,0 +1,13 @@
+span {
+    font-size: 10px;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.terminal {
+    font-size: 100px;
+}
+
+.serverData {
+    font-size: 10px;
+}

@@ -1,0 +1,6 @@
+.Clock {
+	font-size: 30px;
+    align-items: flex-end;
+    display: flex;
+    color: blueviolet;
+}

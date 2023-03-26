@@ -1,0 +1,28 @@
+.img1 {
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+
+.img2 {
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    gap: 200px;
+}
+
+.img3 {
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    gap: 30px;
+}
