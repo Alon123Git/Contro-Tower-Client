@@ -1,3 +1,7 @@
+Beside the explanation in following, this applicatin using react and hooks.
+most of the application write in type script because the application use react template type script.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
